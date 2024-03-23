@@ -1,0 +1,111 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: rgb(227, 224, 224);
+  font-style: Serif;
+}
+.header {
+  font-size: x-large;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 20px;
+}
+
+.meny {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.meny1 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.meny2 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.meny3 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.meny4 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.image {
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.stor-bokstav {
+  margin-bottom: 70px;
+}
+.stor-bokstav::first-letter {
+  font-size: 250%;
+}
+.AboutUs p {
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 25px;
+}
+.AboutUs h1 {
+  background-color: #ffe1ef;
+  font-size: 45;
+  margin-bottom: 60px;
+}
+.AboutUsp {
+  color: #be3168;
+  background-color: #ffe1ef;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.footer {
+  margin-top: 70px;
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 10px;
+}
+
+.footer {
+  color: #f1f1f1;
+  background-color: rgb(90, 89, 89);
+}
+
+.footer1 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.footer2 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+
+.footer3 {
+  font-size: large;
+  display: inline;
+  margin-right: 100px;
+}
+.footerp {
+  padding-top: 25px;
+  border-top-style: solid;
+  border-width: 2px;
+}
+.p {
+  padding-right: 200px;
+  padding-left: 200px;
+  margin-right: 250px;
+  margin-left: 200px;
+}
